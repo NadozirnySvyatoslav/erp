@@ -1,0 +1,11 @@
+.node_modules
+db
+config.json
+*.zip
+logs
+*.log
+.env
+__pycache__
+build
+data
+node_modules

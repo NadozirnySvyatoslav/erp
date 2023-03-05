@@ -1,0 +1,11 @@
+sqlalchemy
+fastapi
+pydantic[email]
+passlib
+psycopg2-binary
+tenacity
+python-jose
+httpx
+python-multipart
+Jinja2
+uvicorn
